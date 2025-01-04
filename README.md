@@ -1,5 +1,8 @@
 # **Deep Learning for Image Classification in Computer Vision and Pathology**
 
+## **IMPORTANT**
+All work done within this school project was done by me and only me. Related works and citations are included within my research paper provided in "Paper.pdf"; this is not a published paper, but it does represent the true methods and results I found during my research.
+
 ## **Description**
 This project focuses on leveraging **Convolutional Neural Networks (CNNs)** to tackle image classification tasks in **computer vision** and **computational pathology**. Through the use of real-world datasets, students will train and analyze CNN models to classify images across diverse applications. The project also explores **transfer learning**, applying pre-trained models from one domain to another, and evaluates their performance on unseen datasets.
 
